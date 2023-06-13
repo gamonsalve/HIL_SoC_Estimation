@@ -1,0 +1,1 @@
+#This code will get the data from the datasets and will send it to the MCU via UART. 
